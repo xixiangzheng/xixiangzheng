@@ -1,6 +1,7 @@
-# Hi there, I'm Xiangzheng XI.
+# Hi there, I'm Xiangzheng XI ~
 
 Undergraduate at University of Science and Technology of China, School of the Gifted Young. 
+
 Majoring in Computer Science and Technology, with a Dual Degree in Finance.
 
 ## Featured Work
