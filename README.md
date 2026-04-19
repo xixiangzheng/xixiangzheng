@@ -23,4 +23,9 @@ Majoring in Computer Science and Technology, with a Dual Degree in Finance.
   Developed a complete LC-3 ecosystem, from an RTL-level Verilog hardware processor to a high-performance C++ functional simulator and a custom assembler.
 
 * **[LR-Backtracking-Optimizer](https://github.com/xixiangzheng/LR-Backtracking-Optimizer)**
-  Engineered a pure-NumPy Logistic Regression solver featuring Armijo backtracking, complete vectorization, and rigorous numerical stability mechanisms. 
+
+  Engineered a pure-NumPy Logistic Regression solver featuring Armijo backtracking, complete vectorization, and rigorous numerical stability mechanisms.
+
+* **[Robust-Simplex-Solver](https://github.com/xixiangzheng/Robust-Simplex-Solver)**
+
+  A robust, pure-Python implementation of the Simplex Algorithm built from scratch, featuring Big-M initialization and Bland's Rule for reliable linear programming optimization.
