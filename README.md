@@ -21,3 +21,6 @@ Majoring in Computer Science and Technology, with a Dual Degree in Finance.
 * **[LC3-FullStack-Architecture](https://github.com/xixiangzheng/LC3-FullStack-Architecture)**
 
   Developed a complete LC-3 ecosystem, from an RTL-level Verilog hardware processor to a high-performance C++ functional simulator and a custom assembler.
+
+* **[LR-Backtracking-Optimizer](https://github.com/xixiangzheng/LR-Backtracking-Optimizer)**
+  Engineered a pure-NumPy Logistic Regression solver featuring Armijo backtracking, complete vectorization, and rigorous numerical stability mechanisms. 
