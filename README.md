@@ -28,4 +28,8 @@ Majoring in Computer Science and Technology, with a Dual Degree in Finance.
 
 * **[Robust-Simplex-Solver](https://github.com/xixiangzheng/Robust-Simplex-Solver)**
 
-  A robust, pure-Python implementation of the Simplex Algorithm built from scratch, featuring Big-M initialization and Bland's Rule for reliable linear programming optimization.
+  Developed a robust, pure-Python Simplex LP solver from scratch, incorporating Big-M initialization for artificial variables and Bland’s Rule to eliminate cycling in degenerate pivots.
+
+* **[ETF-AllWeather-Strategy](https://github.com/xixiangzheng/ETF-AllWeather-Strategy)**
+  
+  Engineered a macro-adaptive rotation engine using VIX-driven dynamic factor synthesis and Risk Parity weighting, featuring a rigorous T-1 signal latency mechanism and 50% exposure scaling for tail-risk mitigation.
