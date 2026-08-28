@@ -6,6 +6,10 @@ Majoring in Computer Science and Technology, with a Dual Degree in Finance.
 
 ## Featured Work
 
+* **[Deepsight](https://github.com/xixiangzheng/Deepsight)**
+
+  Co-developing Deepsight, an AI-native observability foundation built on eBPF probes (network / process / storage) with gRPC and MCP access layers; owns the public docs site, release pipeline, and Pages deployment.
+
 * **[HFT-MultiFactor-Strategy](https://github.com/xixiangzheng/HFT-MultiFactor-Strategy)**
 
   Awarded 3rd Prize in the 2025 Quantitative Trading Research Competition. Implemented a robust HFT strategy operating on 500ms Level-2 snapshot data using multi-factor resonance.
@@ -21,15 +25,3 @@ Majoring in Computer Science and Technology, with a Dual Degree in Finance.
 * **[LC3-FullStack-Architecture](https://github.com/xixiangzheng/LC3-FullStack-Architecture)**
 
   Developed a complete LC-3 ecosystem, from an RTL-level Verilog hardware processor to a high-performance C++ functional simulator and a custom assembler.
-
-* **[LR-Backtracking-Optimizer](https://github.com/xixiangzheng/LR-Backtracking-Optimizer)**
-
-  Engineered a pure-NumPy Logistic Regression solver featuring Armijo backtracking, complete vectorization, and rigorous numerical stability mechanisms.
-
-* **[Robust-Simplex-Solver](https://github.com/xixiangzheng/Robust-Simplex-Solver)**
-
-  Developed a robust, pure-Python Simplex LP solver from scratch, incorporating Big-M initialization for artificial variables and Bland’s Rule to eliminate cycling in degenerate pivots.
-
-* **[ETF-AllWeather-Strategy](https://github.com/xixiangzheng/ETF-AllWeather-Strategy)**
-  
-  Engineered a macro-adaptive rotation engine using VIX-driven dynamic factor synthesis and Risk Parity weighting, featuring a rigorous T-1 signal latency mechanism and 50% exposure scaling for tail-risk mitigation.
